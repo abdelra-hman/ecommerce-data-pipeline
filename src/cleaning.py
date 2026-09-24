@@ -1,7 +1,5 @@
-from src.ingestion import load_data
 import pandas as pd 
 
-df = load_data('../Data/raw/online_retail_II.csv')
 def remove_duplicates(df):
     df = df[~df.duplicated()]
     return df

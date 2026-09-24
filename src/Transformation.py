@@ -1,9 +1,6 @@
 
-from src.ingestion import load_data
-import pandas as pd 
 import numpy as np 
 
-df = load_data('../Data/raw/online_retail_II.csv')
 
 def create_revenue_column(df):
     df['Revenue'] = df['Quantity']*df['Price']
