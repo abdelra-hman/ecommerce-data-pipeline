@@ -1,0 +1,6 @@
+Total Revenue: 10827397.748
+Total Quantity: 4200605
+Top Customer: 14911.0 | Revenue: 191323.41
+Top Product: DOT | Revenue: 309844.1
+Top Country: United Kingdom | Revenue: 9532612.707
+Top Month: 2011.0-11.0 | Revenue: 843399.49
